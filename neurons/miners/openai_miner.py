@@ -47,6 +47,13 @@ class OpenaiMiner:
                             Pay attention to things like size, text, position, and color of all the elements, as well as the overall layout.
                             Respond with the content of the HTML+CSS file:
                         """
+5GmsXK1D5uVFgmpQdQYveDQMu7fdq4Dp1N8rvakkEPJSqbDB
+5F7dwXurJLVty8ReFxXUFSuY64xwsAhfSyVs5jWSBjHCUWNW
+5Evsh6VqUEE53FMBAg6LCeXPA9RJw7PYdKfFKEfaYezT2Uv1
+5G8EkSYqwzFcTnZEWcQ7XerLqwgdW6Shy1cF63Jh441AR5ut
+5HbAvhNqtJbaN6p83wE833nGS8yyTbQuHFzNoCLMmV1BVuSW
+
+                        
                     },
                     {
                         "role": "user",
